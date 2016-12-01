@@ -1,0 +1,16 @@
+/home/zero/code/g2o/g2o/build/core/CMakeFiles/core.dir
+/home/zero/code/g2o/g2o/build/solvers/dense/CMakeFiles/solver_dense.dir
+/home/zero/code/g2o/g2o/build/solvers/pcg/CMakeFiles/solver_pcg.dir
+/home/zero/code/g2o/g2o/build/solvers/slam2d_linear/CMakeFiles/solver_slam2d_linear.dir
+/home/zero/code/g2o/g2o/build/solvers/structure_only/CMakeFiles/solver_structure_only.dir
+/home/zero/code/g2o/g2o/build/stuff/CMakeFiles/stuff.dir
+/home/zero/code/g2o/g2o/build/types/slam3d/CMakeFiles/test_isometry3d_mappings.dir
+/home/zero/code/g2o/g2o/build/types/slam3d/CMakeFiles/test_mat2quat_jacobian.dir
+/home/zero/code/g2o/g2o/build/types/slam3d/CMakeFiles/test_slam3d_jacobian.dir
+/home/zero/code/g2o/g2o/build/types/data/CMakeFiles/types_data.dir
+/home/zero/code/g2o/g2o/build/types/icp/CMakeFiles/types_icp.dir
+/home/zero/code/g2o/g2o/build/types/sba/CMakeFiles/types_sba.dir
+/home/zero/code/g2o/g2o/build/types/sclam2d/CMakeFiles/types_sclam2d.dir
+/home/zero/code/g2o/g2o/build/types/sim3/CMakeFiles/types_sim3.dir
+/home/zero/code/g2o/g2o/build/types/slam2d/CMakeFiles/types_slam2d.dir
+/home/zero/code/g2o/g2o/build/types/slam3d/CMakeFiles/types_slam3d.dir

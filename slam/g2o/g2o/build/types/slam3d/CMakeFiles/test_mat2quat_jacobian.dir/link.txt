@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test_mat2quat_jacobian.dir/test_mat2quat_jacobian.cpp.o  -o test_mat2quat_jacobian -rdynamic libtypes_slam3d.a ../../core/libcore.a ../../stuff/libstuff.a -lrt 

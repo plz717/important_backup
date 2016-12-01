@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+76372d181bea73622450972bb38bf96b g2o/apps/g2o_viewer/moc_main_window.cxx
+ef2051fd7f1eda93653a82ef1742cf84 g2o/apps/g2o_viewer/moc_properties_widget.cxx
+e87294607a583c99c372b3329f8ba719 g2o/apps/g2o_viewer/ui_base_main_window.h
+7c9fe588e7e404219782f5beb8335881 g2o/apps/g2o_viewer/ui_base_properties_widget.h
+9036a4a3e5dff36ee7e6ff5bf9ff07aa g2o/examples/slam2d/moc_main_window.cxx
+830915b7da65b3fc3f862ef913e538af g2o/examples/slam2d/ui_base_main_window.h

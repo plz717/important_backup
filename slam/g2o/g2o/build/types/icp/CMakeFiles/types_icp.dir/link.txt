@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtypes_icp.a  CMakeFiles/types_icp.dir/types_icp.cpp.o
+/usr/bin/ranlib libtypes_icp.a

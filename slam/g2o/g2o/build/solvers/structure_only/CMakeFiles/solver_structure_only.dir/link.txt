@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsolver_structure_only.a  CMakeFiles/solver_structure_only.dir/structure_only.cpp.o
+/usr/bin/ranlib libsolver_structure_only.a

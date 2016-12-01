@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/plz/slam/g2o/g2o/stuff/opengl_primitives.cpp
+opengl_primitives.h
+/home/plz/slam/g2o/g2o/stuff/opengl_primitives.h
+cstdlib
+-
+cmath
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+
+/home/plz/slam/g2o/g2o/stuff/opengl_primitives.h
+opengl_wrapper.h
+/home/plz/slam/g2o/g2o/stuff/opengl_wrapper.h
+g2o/config.h
+/home/plz/slam/g2o/g2o/stuff/g2o/config.h
+
+/home/plz/slam/g2o/g2o/stuff/opengl_wrapper.h
+g2o/config.h
+/home/plz/slam/g2o/g2o/stuff/g2o/config.h
+windows.h
+-
+OpenGL/gl.h
+-
+GL/gl.h
+-
+
+g2o/config.h
+

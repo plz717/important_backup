@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wall -W -O3 -DNDEBUG    CMakeFiles/test_slam3d_jacobian.dir/test_slam3d_jacobian.cpp.o  -o ../../../../bin/test_slam3d_jacobian -rdynamic ../../../../lib/libg2o_types_slam3d.so ../../../../lib/libg2o_core.so ../../../../lib/libg2o_stuff.so -lrt -lGL -Wl,-rpath,/home/plz/slam/g2o/lib 
